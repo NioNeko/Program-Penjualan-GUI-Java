@@ -2,7 +2,7 @@ Things yall need to download :
 - APACHE Netbeans, regular netbeans trash
 
 - Mysql Workbench :
-  https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.46.0.msi
+  https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.47-winx64.msi
   Copy on ur browser url nd pick a path
   
 - Mysql Connector Jar:
